@@ -25,10 +25,10 @@ const erc20list = {
   '0x348236484ce96A293E210260b90bBFb228D6d1Fc': 100, // USDT BSC Testnet (97)
   */
   // Ethernet mainnet
-  '0x6B175474E89094C44Da98b954EedeAC495271d0F': 3, // DAI ethernet
-  '0xdAC17F958D2ee523a2206206994597C13D831ec7': 3, // usdt
-  '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48': 3, // usdc
-  '0x4Fabb145d64652a948d72533023f6E7A623C7C53': 3, // busd
+  '0x6B175474E89094C44Da98b954EedeAC495271d0F': 0, // DAI ethernet
+  '0xdAC17F958D2ee523a2206206994597C13D831ec7': 0, // usdt
+  '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48': 0, // usdc
+  '0x4Fabb145d64652a948d72533023f6E7A623C7C53': 0, // busd
 }
 
 const installInNewWindow = true; // install wallet if not installed
